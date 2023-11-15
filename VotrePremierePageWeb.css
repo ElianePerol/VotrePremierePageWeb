@@ -1,0 +1,49 @@
+/* Votre-première-page-web */
+.logo {
+	margin-top: 5%;
+	margin-bottom: 5%;
+    width: 40%;
+	height: 40%;
+	}
+body {
+	/* centrage de tous les éléments */
+	margin: auto;
+	width: 50%;
+	text-align: center;
+	/* police */
+	font-family : nunito;
+	}
+h1 {
+	margin-top: 15px;
+	margin-bottom: 3px;
+	}
+h4 {
+	font-weight: normal;
+	margin-top: 3px;
+	}
+.p1 {
+	background-color: black;
+	display: inline-block;
+	color: white;
+	font-size :medium;
+	text-decoration: none;
+	border-radius: 7px;
+	margin-top: 40px;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+	}
+.p2 {
+	font-size: xx-small;
+	font-weight: normal;
+	}
+.photo {
+	border: solid;
+	border-radius: 50%;
+	border-width: 3px;
+	border-color:#1D4C69;
+	width: 35px;
+	height: 35px;
+	}
